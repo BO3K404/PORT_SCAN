@@ -2,7 +2,7 @@
 This is a port scanner that detects the open or closed ports of a network, does not automate nmap or use it.
 
 # INSTALLATION:
-1) git clone 
+1) git clone https://github.com/BO3K404/PORT_SCAN.git
 2) cd PORT_SCAN
 3) bash portscan.sh
 
